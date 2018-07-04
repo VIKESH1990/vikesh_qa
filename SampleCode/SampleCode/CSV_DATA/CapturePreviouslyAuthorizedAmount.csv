@@ -1,0 +1,3 @@
+TestcaseID, amount, TransactionId, Message
+CPAA_01, 10, 2249735976, Successful
+CPAA_02, -5, 123456789, invalid amount entered

@@ -1,0 +1,4 @@
+TestcaseID, amount, Message
+CFA_01, 10, Successful
+CFA_02, -5, invalid amount entered
+

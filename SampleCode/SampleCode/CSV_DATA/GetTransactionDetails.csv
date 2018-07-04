@@ -1,0 +1,3 @@
+TestcaseID, apiLogin, transactionKey,transactionId, Message
+GTD_01,5KP3u95bQpv,346HZ32z3fP4hTG2,2249735976, Successfully customer-ids are fetchedAuthorization
+GTD_02,30303030, 789789hjdjah8473847389789,acd, Fails due to Invalid Authorization

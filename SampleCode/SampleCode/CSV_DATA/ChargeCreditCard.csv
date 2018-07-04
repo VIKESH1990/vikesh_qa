@@ -1,0 +1,4 @@
+TestcaseID, amount, Message
+CCC_01, 10, Successful
+CCC_02, -5, invalid amount entered
+

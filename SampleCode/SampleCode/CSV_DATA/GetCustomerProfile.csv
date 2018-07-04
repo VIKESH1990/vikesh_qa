@@ -1,0 +1,3 @@
+TestcaseID, customerProfileId, Message
+GCP_01, 213213, Successfully details fetched
+GCP_02, 47346HBDBM, Fails due to Invalid cutomerid

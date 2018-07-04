@@ -1,0 +1,3 @@
+TestCaseId,customerProfileId, Message
+GCPMS_01,213213, Successfully payments-ids are fetched
+GCPMS_02,53265fdf, Failed due to invalid customerId

@@ -1,0 +1,3 @@
+TestCase_Id,subscriptionId,firstName,lastName,customerProfileId,customerPaymentProfileId,customerAddressId,amount
+UAS_01,1223213,Calvin,Brown,1232312,2132132,1233432,35.55
+UAS_02,ryio088,james,bond,rt531,2132132,1233432,35.55

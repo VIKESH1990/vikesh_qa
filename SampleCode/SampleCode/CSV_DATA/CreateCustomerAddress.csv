@@ -1,0 +1,3 @@
+TestcaseID,customerId,firstName,lastName,address,city,zip,Message
+CCA_01,213213,Chris,brown,1200 148th AVE NE,NorthBend,92101, Successful.
+CCA_02,13,Chris,brown,1200 148th AVE NE,NorthBend,92101, Fails due to Invalid Customerid.

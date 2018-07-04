@@ -1,0 +1,4 @@
+TestcaseID, customerProfileId, Message
+DCP_01, 213213, Customer Profile deleted.
+DCP_02, 123456, Fails due to INVALID CustomerProfileId
+
